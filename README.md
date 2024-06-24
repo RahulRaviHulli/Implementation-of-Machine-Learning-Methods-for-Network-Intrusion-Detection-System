@@ -3,3 +3,5 @@ Our primary objective revolves around the development of a model adept at precis
 
 - Investigated and enlisted multiple use cases where machine learning would fail to work as a trustable cyber security solution, using studies on techniques such as data poisoning and resource constraining.
 - Implemented five known machine learning methods used to devise cyber security solutions, and improved them based on our findings as above, further improving the accuracy through methods such as balancing class distribution and anomaly detection techniques on certain misperforming parameters.
+## Video
+- Implementation of Machine Learning Methods for Network Intrusion Detection System: https://youtu.be/yLhAmMSdUmc
